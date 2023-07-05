@@ -10,7 +10,7 @@ This is the code repository for the research paper [MUFFIN : A suite of generic 
 ## Table of Contents
 
 - [Background](#background)
-- [Code re-use and reproducibility](#code-re-use-and-reproducibility)
+- [Examples](#examples)
 - [Dependencies](#dependencies)
 - [Data](#data)
 - [License](#license)
